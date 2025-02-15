@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bocugd.csgad.com/nVA/sitemap.xml.gz
